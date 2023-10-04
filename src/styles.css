@@ -1,0 +1,107 @@
+/* Global Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background-color: #f0f0f0; /* Light gray background */
+  margin: 0;
+  padding: 0;
+}
+
+/* Container Styles */
+main {
+  max-width: 600px;
+  margin-top: 220px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff; /* White container background */
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Box shadow for container */
+}
+
+/* Section Styles */
+section {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border: 2px solid #444; /* Dark gray border */
+  border-radius: 8px;
+  background-color: goldenrod;; /* Light gray section background */
+}
+
+/* Heading Styles */
+h1 {
+  font-size: 2rem;
+  color: #333; /* Dark gray heading color */
+}
+
+/* Button Styles */
+button {
+  background-color: #007bff; /* Blue button background */
+  color: #fff; /* White button text color */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Quote Styles */
+h3 {
+  font-size: 1.5rem;
+  color: #333; /* Dark gray text color */
+  margin-top: 20px;
+}
+
+i {
+  font-size: 1.2rem;
+  color: #9e2277; /* Light gray author color */
+}
+
+
+
+#root{
+  margin-top: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* html {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: goldenrod;
+  }
+  
+  main {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  section {
+    margin-top: 100px;
+    display: grid;
+    place-items: center;
+    border: 2px solid gray;
+    padding: 20px 10px;
+    background-color: white;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+   */
